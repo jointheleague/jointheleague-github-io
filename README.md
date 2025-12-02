@@ -1,5 +1,3 @@
-# jointheleague.github.io
-GitHub Pages for The League of Amazing Teachers
+# teachers.jointheleague.org
 
-Visit [jointheleague.github.io](http://jointheleague.github.io) to see on-ramping and resource material
-for League Teachers.
+Source for the [teachers.jointheleague.org](teachers.jointheleague.org) website. 
